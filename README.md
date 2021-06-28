@@ -10,3 +10,7 @@ I work on Cloud based infrastrcutures (mostly AWS), and I like to maintain them 
 
 ![image alt >](https://github-readme-stats.vercel.app/api/top-langs/?username=nicor88&theme=tokyonight&count_private=true)
 ![image alt <](https://github-readme-stats.vercel.app/api/?username=nicor88&theme=tokyonight&count_private=true)
+
+### Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nicor88)](https://github.com/ryo-ma/github-profile-trophy)
