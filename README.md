@@ -1,6 +1,6 @@
 ### Hello
 
-I'm Nicola (he/he). I have a master degree in Network and Computer Engineering from [University of Cagliari](https://www.unica.it/unica/en/homepage.page).
+I'm Nicola (he/him). I have a master degree in Network and Computer Engineering from [University of Cagliari](https://www.unica.it/unica/en/homepage.page).
 I'm a Data Engineer at heart, working with data pipelines since 2013.
 
 I work on Cloud based infrastrcutures (mostly AWS), and I like to maintain them via IaC (Terraform).
