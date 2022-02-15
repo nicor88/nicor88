@@ -5,6 +5,8 @@ I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm exper
 
 ## Expertise
 * AWS
+* K8S
+* Docker
 * Airflow
 * Python
 * SQL
