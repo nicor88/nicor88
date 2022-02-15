@@ -1,16 +1,24 @@
 ### Hello
 
-I'm Nicola (he/him). I have a master degree in Network and Computer Engineering from [University of Cagliari](https://www.unica.it/unica/en/homepage.page).
-I'm a Data Engineer at heart, working with data pipelines since 2013.
-
-I work on Cloud based infrastrcutures (mostly AWS), and I like to maintain them via IaC (Terraform).
+I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm experienced on both analytics engines (Snowflake, Redshift) and data-lakes architectures.
 
 
-## Github stats
+## Expertise
+* AWS
+* Airflow
+* Python
+* SQL
+* Redshift
+* Snowflake
 
-![image alt >](https://github-readme-stats.vercel.app/api/top-langs/?username=nicor88&theme=tokyonight&count_private=true)
-![image alt <](https://github-readme-stats.vercel.app/api/?username=nicor88&theme=tokyonight&count_private=true)
+## Interests
+* Distirbuted Computing
+* Serverless
+* Data Lake acidity
 
-### Profile Trophies
+### Connect with me
+[<img align="left" alt="nicolacorda | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nicorc88 | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicor88)](https://github.com/ryo-ma/github-profile-trophy)
+[linkedin]: https://www.linkedin.com/in/nicolacorda/
+[twitter]: https://twitter.com/nicorc88
