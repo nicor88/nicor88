@@ -16,9 +16,9 @@ I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm exper
 
 ## Interests
 * Serverless
-* Data Lake acidity
+* Data Lakes
 * Query Engines
-* Lakehouse
+* Lakehouses
 
 ### Connect with me
 [<img align="left" alt="nicolacorda | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
