@@ -1,6 +1,6 @@
 ### Hello
 
-I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm experienced on working with data architectures that involve the usage of anyltics engines, or data-lakes.
+I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm experienced on working with data architectures of different sizes, from data-lakes to fat DWH.
 
 
 ## Expertise
