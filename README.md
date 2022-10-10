@@ -5,12 +5,16 @@ I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm exper
 
 ## Expertise
 * AWS
-* Docker/K8S
+* IaC
+   * Terraform
+   * Cloudformation
+* Docker/Kubernetest/AWS ECS
 * Airflow
 * Python
 * SQL
 * Spark
-* Redshift/Snowflake/Postgres
+* Redshift/Snowflake
+* Postgres/MySQL
 * Presto/Trino
 
 ## Interests
