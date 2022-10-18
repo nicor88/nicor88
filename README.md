@@ -15,7 +15,7 @@ I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm exper
 * Spark
 * Redshift/Snowflake
 * Postgres/MySQL
-* Presto/Trino
+* Presto/Trino/AWS Athena
 
 ## Interests
 * Serverless
