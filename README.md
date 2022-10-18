@@ -20,6 +20,7 @@ I'm Nicola (he/him). I'm a Cloud Data Engineer, mostly focused on AWS. I'm exper
 ## Interests
 * Serverless
 * Data Lakes/Data Lakehouses/Data Warehouses
+* Open Table Formats
 * Distributed systems
 * Streaming
 
