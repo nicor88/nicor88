@@ -8,7 +8,7 @@ I'm Nicola (he/him). I'm a Data Engineer and Data Architect, mostly working with
 * IaC
    * Terraform
    * Cloudformation
-* Docker/Kubernetest/AWS ECS
+* Docker/Kubernetes/AWS ECS
 * Airflow
 * Python
 * SQL
