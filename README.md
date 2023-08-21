@@ -8,8 +8,9 @@ I'm Nicola (he/him). I'm a Data Engineer and Data Architect, mostly working with
 * IaC
    * Terraform
    * Cloudformation
+   * CDK
 * Docker/Kubernetes/AWS ECS
-* Airflow
+* Airflow/AWS Step Functions
 * Python
 * SQL
 * Spark
@@ -20,7 +21,7 @@ I'm Nicola (he/him). I'm a Data Engineer and Data Architect, mostly working with
 ## Interests
 * Serverless
 * Data Lakes/Data Lakehouses/Data Warehouses
-* Open Table Formats
+* Open Table Formats (specifically Iceberg)
 * Distributed systems
 * Streaming
 
