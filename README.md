@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicor88&label=Profile%20views&color=0e75b6&style=flat" alt="nicor88" /> </p>
+
 ### Hello
 
 I'm Nicola (he/him). I'm a Data Engineer and Data Architect, mostly working with AWS. I'm experienced on designing/evolving/maintaining data architectures of different sizes, from data-lakes to fat DWH.
